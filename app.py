@@ -1,4 +1,4 @@
-def addition(a,b,c):
+def addition(a,b,):
   return a+b+c
 
 def division(a,b):
